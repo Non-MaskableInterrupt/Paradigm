@@ -7,6 +7,9 @@ Multiple screenshots of him saying he forks his work on paradigm to another paid
 ![image](https://github.com/user-attachments/assets/f7d69f77-45b8-46db-80c3-fbe09d7dea8b)<br />
 ![image](https://github.com/user-attachments/assets/aa553de2-d74f-491f-95db-bc78f6dc5a60)<br /><br />
 
+Says there's a backdoor in the webloader loader. (Uses local host communication, probably is twizzo icl 🤣🤣)<br />
+![image (3)](https://github.com/user-attachments/assets/9d34c143-1e2f-4494-a0e7-849b6362c11a)<br />
+
 Here's some random sauce from risku I could give less of a shit about <br />
 ![image](https://github.com/user-attachments/assets/acdac87d-c033-4f4a-9024-976b35843f68)<br />
 
