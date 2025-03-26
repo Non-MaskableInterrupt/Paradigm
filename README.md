@@ -10,6 +10,7 @@ Multiple screenshots of him saying he forks his work on paradigm to another paid
 Says there's a backdoor in the webloader loader. (Websockets communication @mqxxe. didn't cook, probably is twizzo icl 🤣🤣)<br />
 ![togif](https://github.com/user-attachments/assets/4aefdf29-60ee-4852-85ce-8059912236e8)<br />
 ![image (3)](https://github.com/user-attachments/assets/9d34c143-1e2f-4494-a0e7-849b6362c11a)<br />
+![image](https://github.com/user-attachments/assets/abdf9877-e4ad-4fb0-b6b2-21be9c8570fc)
 
 Here's some random sauce from risku I could give less of a shit about <br />
 ![image](https://github.com/user-attachments/assets/acdac87d-c033-4f4a-9024-976b35843f68)<br />
