@@ -1,5 +1,5 @@
 # Paradigm
-[Paradigm](https://paradigm.directory/) is a poorly coded Hyper-V Injector, managed by the paster him-self risku.<br />
+[Paradigm](https://paradigm.directory/) is a poorly coded Hyper-V Injector (Using Discord Present Hook), managed by the paster him-self risku.<br />
 He is netorious for not developing anything his actual self, and larping about it. <br /><br />
 He has been clowned multiple times for forking work to shadow developers, and begging for help with payment. <br />
 Multiple screenshots of him saying he forks his work on paradigm to another paid developer, he hasn't touched a single line of code in paradigm.<br />
@@ -7,7 +7,7 @@ Multiple screenshots of him saying he forks his work on paradigm to another paid
 ![image](https://github.com/user-attachments/assets/f7d69f77-45b8-46db-80c3-fbe09d7dea8b)<br />
 ![image](https://github.com/user-attachments/assets/aa553de2-d74f-491f-95db-bc78f6dc5a60)<br /><br />
 
-Says there's a backdoor in the webloader loader. (Uses local host communication, probably is twizzo icl 🤣🤣)<br />
+Says there's a backdoor in the webloader loader. (Websockets local host communication, probably is twizzo icl 🤣🤣)<br />
 ![togif](https://github.com/user-attachments/assets/4aefdf29-60ee-4852-85ce-8059912236e8)<br />
 ![image (3)](https://github.com/user-attachments/assets/9d34c143-1e2f-4494-a0e7-849b6362c11a)<br />
 
