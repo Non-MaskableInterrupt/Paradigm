@@ -15,4 +15,5 @@ Here's some random sauce from risku I could give less of a shit about <br />
 
 His UC account login (banned now 🤣)<br />
 IEmulateEAC:RiskuFace1337<br />
-Certificate PW: m27SPnDeDZgz9Fvw483N
+Certificate PW: m27SPnDeDZgz9Fvw483N<br /><br />
+![image](https://github.com/user-attachments/assets/547e7c03-baed-4dc9-b4e0-60ae7b25850b)
